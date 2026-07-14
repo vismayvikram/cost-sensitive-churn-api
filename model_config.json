@@ -1,0 +1,7 @@
+{
+  "optimal_threshold": 0.39,
+  "fn_cost_formula": "monthly_charges * 12",
+  "fn_cost_multiplier": 12,
+  "fp_cost": 50,
+  "capacity_cap": 0.3
+}
